@@ -1,9 +1,9 @@
 const cacheName = "Team63-Animelee-0.1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/Animelee.loader.js",
+    "Build/Animelee.framework.js",
+    "Build/Animelee.data",
+    "Build/Animelee.wasm",
     "TemplateData/style.css"
 
 ];
