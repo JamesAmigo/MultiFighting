@@ -1,4 +1,4 @@
-const cacheName = "Team63-Animal Revolution-1.0.0";
+const cacheName = "Team63-Animal Revolution-1.0.1";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js",
